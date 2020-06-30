@@ -1,5 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Linq;
+using System.Xml.Schema;
 
 namespace GFG.BinaryNumberMultipleOf3
 {
@@ -45,7 +47,21 @@ namespace GFG.BinaryNumberMultipleOf3
 
             foreach(string binaryString in binaryStrings)
             {
-                int number = Convert.ToInt32(binaryString, 2);
+                char[] arr = binaryString.ToArray();
+
+                int number = 1;
+
+                for(int i = arr.Length-1;i >0 ;i--)
+                {
+                    if(arr[i] == '1')
+                    {
+                        number += 2 * i;
+                    }
+                    
+                }
+
+                
+                                
                 if(number % num == 0)
                 {
                     response.Add(1);
