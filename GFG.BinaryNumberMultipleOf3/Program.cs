@@ -49,15 +49,15 @@ namespace GFG.BinaryNumberMultipleOf3
             {
                 char[] arr = binaryString.ToArray();
 
-                int number = 1;
-
-                for(int i = arr.Length-1;i >0 ;i--)
+                long number = 0;
+                int count = arr.Length - 1;
+                for(int i = 0;i < arr.Length ;i++)
                 {
                     if(arr[i] == '1')
                     {
-                        number += 2 * i;
+                        number += (long)Math.Pow(2 , count);
                     }
-                    
+                    count--;                    
                 }
 
                 
