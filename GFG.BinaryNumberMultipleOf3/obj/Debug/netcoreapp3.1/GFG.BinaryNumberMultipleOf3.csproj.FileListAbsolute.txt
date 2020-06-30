@@ -1,0 +1,13 @@
+D:\Projects\GFG\GFG.BinaryNumberMultipleOf3\bin\Debug\netcoreapp3.1\GFG.BinaryNumberMultipleOf3.exe
+D:\Projects\GFG\GFG.BinaryNumberMultipleOf3\bin\Debug\netcoreapp3.1\GFG.BinaryNumberMultipleOf3.deps.json
+D:\Projects\GFG\GFG.BinaryNumberMultipleOf3\bin\Debug\netcoreapp3.1\GFG.BinaryNumberMultipleOf3.runtimeconfig.json
+D:\Projects\GFG\GFG.BinaryNumberMultipleOf3\bin\Debug\netcoreapp3.1\GFG.BinaryNumberMultipleOf3.runtimeconfig.dev.json
+D:\Projects\GFG\GFG.BinaryNumberMultipleOf3\bin\Debug\netcoreapp3.1\GFG.BinaryNumberMultipleOf3.dll
+D:\Projects\GFG\GFG.BinaryNumberMultipleOf3\bin\Debug\netcoreapp3.1\GFG.BinaryNumberMultipleOf3.pdb
+D:\Projects\GFG\GFG.BinaryNumberMultipleOf3\obj\Debug\netcoreapp3.1\GFG.BinaryNumberMultipleOf3.csprojAssemblyReference.cache
+D:\Projects\GFG\GFG.BinaryNumberMultipleOf3\obj\Debug\netcoreapp3.1\GFG.BinaryNumberMultipleOf3.csproj.CoreCompileInputs.cache
+D:\Projects\GFG\GFG.BinaryNumberMultipleOf3\obj\Debug\netcoreapp3.1\GFG.BinaryNumberMultipleOf3.AssemblyInfoInputs.cache
+D:\Projects\GFG\GFG.BinaryNumberMultipleOf3\obj\Debug\netcoreapp3.1\GFG.BinaryNumberMultipleOf3.AssemblyInfo.cs
+D:\Projects\GFG\GFG.BinaryNumberMultipleOf3\obj\Debug\netcoreapp3.1\GFG.BinaryNumberMultipleOf3.dll
+D:\Projects\GFG\GFG.BinaryNumberMultipleOf3\obj\Debug\netcoreapp3.1\GFG.BinaryNumberMultipleOf3.pdb
+D:\Projects\GFG\GFG.BinaryNumberMultipleOf3\obj\Debug\netcoreapp3.1\GFG.BinaryNumberMultipleOf3.genruntimeconfig.cache
