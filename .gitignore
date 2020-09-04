@@ -4,3 +4,12 @@
 *.pdb
 *.dll
 .vs/GFG/DesignTimeBuild/.dtbcache.v2
+*.cache
+obj/
+**/.vs
+obj/**/*.dll
+obj/**/*.pdb
+bin/Debug/*/
+debug/
+*.dll
+./bin/
